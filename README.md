@@ -12,9 +12,9 @@ GitHub readme files should contain enough information at first glance that a per
 
 Add images and/or gifs! As they say, "An image is worth a thousand words"!  
 
-📒 NOTE 📒  
-* Use html styling when adding images so that you can control the size of the image. Example of above image: `<img src="docs/_images/webApp.gif" alt="Web App Gif" width="400"/>`. Only set the width OR height to preserve the aspect ratio.  
-* Also, store the images in a separate folder under the docs folder, for example `/docs/_images`.
+> [!NOTE]  
+> * Use html styling when adding images so that you can control the size of the image. Example of above image: `<img src="docs/_images/webApp.gif" alt="Web App Gif" width="400"/>`. Only set the width > OR height to preserve the aspect ratio.  
+> * Also, store the images in a separate folder under the docs folder, for example `/docs/_images`.
 
 ## Intended Audience
 This repo is for developers creating new GitHub repositories.  
@@ -46,8 +46,8 @@ This repo is for developers creating new GitHub repositories.
   ### Technologies Used
   ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
 
-  📒 NOTE: 📒  
-  For more information on badges (as seen above ⬆️) see [Other Resources](#other-resources) at the bottom of this page.
+> [!NOTE]  
+> For more information on badges (as seen above ⬆️) see [Other Resources](#other-resources) at the bottom of this page.
 
   ### Highlights
 
@@ -62,8 +62,8 @@ This repo is for developers creating new GitHub repositories.
   | Quality Assurance | https://fakeurl.com/qa |
   | Production | https://fakeurl.com/ |  
   
-  📒 NOTE: 📒  
-  For more information on markdown tables (as seen above ⬆️) see "Markdown" under [Other Resources](#other-resources) at the bottom of this page.
+> [!NOTE]    
+> For more information on markdown tables (as seen above ⬆️) see "Markdown" under [Other Resources](#other-resources) at the bottom of this page.
 
 ---
 # 🛠️ Application Usage (Locally)
@@ -79,10 +79,10 @@ This repo is for developers creating new GitHub repositories.
   * x86 processor
   * SDK vX.Y.Z required further instructions on installing this can be found [here](/docs/MORE_INSTRUCTIONS.md)
 
-  📒 NOTE: 📒  
-  * In order to keep this main README short and easy to read, it is encouraged to place further tangential instructions / information in separate *.md files.
-  * *.md file naming convention is in all CAPS.
-  * besides the main README.md file, other *.md files should be placed in the `/docs` folder
+> [!NOTE]   
+>  * In order to keep this main README short and easy to read, it is encouraged to place further tangential instructions / information in separate *.md files.
+>  * *.md file naming convention is in all CAPS.
+>  * besides the main README.md file, other *.md files should be placed in the `/docs` folder
 
   ### Building locally
   1. Do this
@@ -99,8 +99,8 @@ This repo is for developers creating new GitHub repositories.
   3. And finally this  
      Do stuff
   
-  📒 NOTE: 📒  
-  You can number each list item above with a 1 and markdown will automatically increment. This is helpful with long lists. You don't have to renumber the whole list every time you change an item in the beginning.
+> [!NOTE]   
+> You can number each list item above with a 1 and markdown will automatically increment. This is helpful with long lists. You don't have to renumber the whole list every time you change an item in the beginning.
   
   ### Running Automated Tests
   * Run this command to execute unit tests  
@@ -112,8 +112,8 @@ This repo is for developers creating new GitHub repositories.
   2. Run this command to start the app  
     `start app`
 
-  📒 NOTE: 📒   
-  Double space at the end of a line will force a carriage return on the rendered markdown.
+> [!NOTE]  
+>  Double space at the end of a line will force a carriage return on the rendered markdown.
 
 ---
 # 🔗 Related Resources
